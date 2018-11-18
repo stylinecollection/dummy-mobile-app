@@ -14,6 +14,8 @@
 - Each product item should show product name, product image (just one), sku, price, stock and category
 - Products should be filtered by categories, stock availablability
 - Products should be sorted by price
+
+##### Objectives (Intermediate)
 - Implement Customer Sign Up and Login functionalities using Moltin SDK (No email/sms verification is required)
 - If the customer is logged in, show customer's name and logout button.
 - Also an add to cart button should be visible with each products if customer is logged in (and if the product is in stock)
@@ -26,7 +28,7 @@
 
 ##### Notes
 - UI can be very simple, but should be consistent
-- Any React Native UI components or 3rd Party libraries can be used
+- Any React Native/Native Android/Native iOS UI components or 3rd Party libraries can be used
 - You must use the provided backend (Moltin) using any of their SDKs or REST API and have to use the API/Access Keys that has been provided
 - Focus should be on workable and consistent functionalities rather than aesthetics
 
