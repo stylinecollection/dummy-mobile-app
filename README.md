@@ -1,6 +1,6 @@
 # Screening Project: Styline Mobile Developer Recruitment
 - Fork the repository
-- Create a mobile app using **React Native** according to the guidelines below
+- Create a mobile app using **React Native**/**Native Android**/**Native iOS** according to the guidelines below
 - Complete the sections after the horizontal line in the README to provide instructions about how to install the depepndencies and run the project
 - After you are done send a pull request to the original repository
 
