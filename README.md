@@ -36,3 +36,13 @@
 **Note**: Fill up the following sections before creating the pull request
 #### How to install dependencies (in Windows/Mac/Linux - Any one)
 #### How to run the project
+
+
+- Clone the project on desktop 
+- Open on Android Studio 
+- Plug any mobile device or start emulator. 
+- Click run button on android studio
+
+Output -> https://streamable.com/s/m0vi8/ymseke
+
+apk -> https://drive.google.com/file/d/1qEVxqPp-uVOgobK4NH6BfvVzf3tfAGGV/view?usp=sharing
