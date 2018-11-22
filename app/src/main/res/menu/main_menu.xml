@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_cart"
+        app:showAsAction="ifRoom"
+        android:title="CART">
+    </item>
+
+    <item
+        android:id="@+id/action_filter_by_cat"
+        app:showAsAction="never"
+        android:title="Filter By Category">
+
+    </item>
+    <item
+        android:id="@+id/action_login"
+        app:showAsAction="never"
+        android:title="Log In">
+
+    </item>
+    <item
+        android:id="@+id/action_logout"
+        app:showAsAction="never"
+        android:title="Log Out">
+
+    </item>
+
+    <!--<item-->
+        <!--android:id="@+id/action_settings"-->
+        <!--app:showAsAction="never"-->
+        <!--android:title="Settings">-->
+    <!--</item>-->
+</menu>
