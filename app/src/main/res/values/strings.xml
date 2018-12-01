@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Online Shop</string>
+
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="home">Cancel</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="top">top</string>
+    <string name="cart">Add to Cart</string>
+    <string name="category">Category</string>
+</resources>
